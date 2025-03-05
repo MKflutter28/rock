@@ -1,0 +1,1 @@
+ C:\\Users\\manis\\OneDrive\\Documents\\flutter\ new\ apprentiance\\rockpaper\\.dart_tool\\flutter_build\\cf99768e74d0849de86c93f57ac811d9\\native_assets.json: 
